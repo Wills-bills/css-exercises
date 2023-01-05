@@ -1,0 +1,23 @@
+.pink {
+    background-color: pink;
+}
+
+.small {
+    font-size: small;
+}
+
+.large {
+    font-size: large;
+}
+
+#blue-text {
+    color: blue;
+}
+
+#green-box {
+    background-color: lime;
+}
+
+.fonted {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
